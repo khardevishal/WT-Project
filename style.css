@@ -34,7 +34,7 @@ h1 {
 
 #home::before {
     content: "";
-    background: url('../bg3.jpg') no-repeat center center/cover;
+    background: url('./bg3.jpg') no-repeat center center/cover;
     position: absolute;
     top: 0;
     height: 100%;
